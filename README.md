@@ -1,2 +1,1 @@
-# jugomy
-Plataforma web JUGOMY
+index.html
